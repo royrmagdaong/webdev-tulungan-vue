@@ -5,7 +5,7 @@
       welcome to web dev tulungan, matututo ka kapag nag aral ka
     </p>
 
-    <p>kay roy na code</p>
+    <p>kay roy na code 22222222222</p>
   </div>
 </template>
 
@@ -21,5 +21,8 @@ export default {
 <style>
 h1{
   color: blue;
+}
+p{
+  color: aqua;
 }
 </style>
