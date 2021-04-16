@@ -4,6 +4,8 @@
     <p>
       welcome to web dev tulungan, matututo ka kapag nag aral ka
     </p>
+
+    <p>kay roy na code</p>
   </div>
 </template>
 
